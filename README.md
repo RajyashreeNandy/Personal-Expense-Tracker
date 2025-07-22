@@ -98,36 +98,37 @@ The backend sheets in Excel manage:
 ---
 
 ## 🛠️ How to Use
-1.Raw Data: (Optional) Run the Python script personal_income_expense_tracker.py to generate synthetic income & expense data (raw_data.csv) or paste your own transactions.
-2.Load Data: Open PersonalExpenseTracker.xlsm and click the Refresh All button (or use the built-in refresh macro). This will automatically update all Pivot Tables and KPIs.
-3.Dashboard: Instantly view KPIs (Total Income, Total Expenses, Net Savings, Savings Rate), Pivot Tables, and Top 5 Expenses.
-4.Customize: Edit categories/types via dropdowns or validation lists if you want new income or expense categories.
+- Raw Data: (Optional) Run the Python script personal_income_expense_tracker.py to generate synthetic income & expense data (raw_data.csv) or paste your own transactions.
+- Load Data: Open PersonalExpenseTracker.xlsm and click the Refresh All button (or use the built-in refresh macro). This will automatically update all Pivot Tables and KPIs.
+- Dashboard: Instantly view KPIs (Total Income, Total Expenses, Net Savings, Savings Rate), Pivot Tables, and Top 5 Expenses.
+- Customize: Edit categories/types via dropdowns or validation lists if you want new income or expense categories.
 
 ---
 
 ## 🧩 Excel Functions Used
 This tracker uses advanced Excel functions for automation:
-1.SUMIFS → Category & month-based calculations
-2.GETPIVOTDATA → KPI extractions from Pivot Tables
-3.TEXT, EOMONTH, MONTH, YEAR → Date formatting
-4.INDEX, MATCH, XLOOKUP → Dynamic lookups
-5.IFERROR, IF → Error handling
-6.UNIQUE, SORT → Auto category management
-7.Structured Table references for dynamic updates
+- SUMIFS → Category & month-based calculations
+- GETPIVOTDATA → KPI extractions from Pivot Tables
+- TEXT, EOMONTH, MONTH, YEAR → Date formatting
+- INDEX, MATCH, XLOOKUP → Dynamic lookups
+- IFERROR, IF → Error handling
+- UNIQUE, SORT → Auto category management
+- Structured Table references for dynamic updates
 
 ## 🔄 Macros Used
 The Excel file includes a lightweight VBA macro to:
-1.Refresh all Pivot Tables with one click
-2.Ensure the dashboard always shows updated data
-No external add-ins or complex VBA required.
+- Refresh all Pivot Tables with one click
+- Ensure the dashboard always shows updated data
+- No external add-ins or complex VBA required.
 
 ---
 
 ## 👤 About the Author
 Rajyashree Nandy
 An Excel and Data Analyst enthusiast leveraging data automation to turn raw data into actionable insights.
-🔗 [LinkedIn](linkedin.com/in/rajyashree-nandy) | [GitHub](https://github.com/RajyashreeNandy)
-
+🔗 > (Linkedin)[linkedin.com/in/rajyashree-nandy]
+    > (Github)[https://github.com/RajyashreeNandy]
+    
 ---
 
 ## 📜 License
