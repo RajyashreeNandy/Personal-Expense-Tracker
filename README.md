@@ -124,9 +124,11 @@ The Excel file includes a lightweight VBA macro to:
 ---
 
 ## 👤 About the Author
-Rajyashree Nandy
+**Rajyashree Nandy**
 An Excel and Data Analyst enthusiast leveraging data automation to turn raw data into actionable insights.
-🔗 (Linkedin)[https://www.linkedin.com/in/rajyashree-nandy] | (Github)[https://github.com/RajyashreeNandy]
+
+
+🔗(Linkedin)[https://www.linkedin.com/in/rajyashree-nandy] | (Github)[https://github.com/RajyashreeNandy]
     
 ---
 
