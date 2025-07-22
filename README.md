@@ -1,2 +1,2 @@
 # Personal-Expense-Tracker
-Excel-based Personal Finance Tracker with automated dashboard and KPIs
+Excel Personal Finance Tracker with automated KPIs, dashboards, Python-generated sample data, and screenshots.
